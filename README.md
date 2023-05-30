@@ -36,7 +36,7 @@
 | 实验3      | 可行性分析（研究）报告（FAR）附录A1~A3，包括：<br>A1 软件开发模型，包括软件开发模型的对比和Scrum<br>A2 风险管理<br>A3 信息可视化 | <br>$\checkmark$<br>$\checkmark$<br>$\checkmark$             |
 | 实验4      | XP开发方法<br>DevOps文档解读                                 | $\checkmark$<br>$\checkmark$                                 |
 | 实验5      | 活动图练习（P97-98，找出关键路径）+实验内容中的练习<br>软件开发项目活动图<br>项目过程甘特图<br>调研国内外软件开发团队组织结构和工作方式对比 | $\checkmark$<br>$\times$<br>$\times$<br>$\checkmark$         |
-| 实验6      | CH3习题12（小组讨论）<br>项目工作量估算（参考P94 3.7的工作量模型）<br>CH3 习题11（小组讨论）<br>风险管理（见实验3 A2风险管理） | $\times$<br>$\times$<br>$\times$<br>$\checkmark$             |
+| 实验6      | CH3 习题12（小组讨论）<br>项目工作量估算（参考P94 3.7的工作量模型）<br>CH3 习题11（小组讨论）<br>风险管理（见实验3 A2风险管理） | $\checkmark$<br>$\times$<br>$\checkmark$<br>$\checkmark$     |
 | 实验7      | 软件需求规格说明（SRS）<br>根据《掌握需求过程》完善SRS（见SRS）<br>静态建模工具的项目建模与需求规格分析（见SRS） | $\checkmark$<br>$\checkmark$<br>$\checkmark$                 |
 | 实验8      | 学习Petri网的系统建模概述（*SYSTEM MODELLING WITH PETRI NETS*）<br>动态建模工具的项目建模与需求规格分析（见SRS） | $\checkmark$<br>$\checkmark$                                 |
 | 实验9      | 学习UML，理解UML系统建模（*The Unified Modeling Language Reference Manual*）<br>了解常用逻辑及其在CS中的应用（*LOGIC IN COMPUTER SCIENCE--Modelling and Reasoning about Systems*）<br>学习研究经典软件体系结构案例（见实验要求） | $\times$<br>$\times$<br>$\times$                             |
